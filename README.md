@@ -65,7 +65,7 @@
 <div align="center">
   <a href="mailto:hayon2c@gmail.com">
     <img
-      src="https://img.shields.io/badge/waterlee2035@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/hayon2c@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
