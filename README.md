@@ -4,6 +4,9 @@
   ![header](https://capsule-render.vercel.app/api?type=venom&text=LeeHaYeon)
 </div>
 
+<!--<h2>안녕하세요</h2>-->
+<!--<h3>항상 배우는 자세로 노력하는 백엔드 개발자 이하연입니다</h3>-->
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
