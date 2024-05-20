@@ -3,13 +3,37 @@
   
   ![header](https://capsule-render.vercel.app/api?type=venom&text=LeeHaYeon)
 </div>
+<br/>
 
-<!--<h2>안녕하세요</h2>-->
-<!--<h3>항상 배우는 자세로 노력하는 백엔드 개발자 이하연입니다</h3>-->
+<h3 align="center">
+🙋‍♀️안녕하세요! 웹 개발자 이하연입니다.
+</h3>
+
+<br/>
+<br/>
+
+<div>
+<h2>My values</h2>
+😎 대충대충은 싫어요!  <br/>
+⚡ 효율적인 작업을 지향 합니다  <br/>
+🔥 재밌다고 생각하면 재밌어집니다 <br/>
+</div>
+
+<br/>
+
+<div>
+<h2>How i work</h2>
+저는 새로운 기술을 배우는 것이 재미있습니다. <br/>
+또한, 팀원들과 함께 스터디를 하거나 협업하여 프로젝트를 하는 것을 좋아합니다. <br/>
+그리고 무조건 약속한 시간 안에 완성을 해야한다고 생각하며 단순히 '끝'이 아닌, 기한 내에 보여줄 수 있는 최고의 성과를 낼 수 있도록 노력합니다!
+</div>
+
+<br/>
+<br/>
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
+<h2>✨ Tech Stack ✨</h2>
+<div>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
@@ -21,18 +45,21 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
+<br>
+
 <!--내용 부분-->
-<h3 align="center">📂 Data Base 📂</h3>
-<div align="center">
+<h2>📂 Data Base 📂</h2>
+<div>
   <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
 </div>
 
 <br>
+<br>
 
-<h3 align="center">🫧 Language 🫧</h3>
-<div align="center">
+<h2>🫧 Language 🫧</h2>
+<div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> 
@@ -40,16 +67,18 @@
 </div>
 
 <br>
+<br>
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
+<h2>📚 Studying 📚</h2>
+<div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 </div>
 
 <br>
+<br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
+<h2>🛠 Tools 🛠</h2>
+<div>
   <div>
     <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -63,9 +92,10 @@
 </div>
 
 <br>
+<br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<h2>📫 Contact 📫</h2>
+<div>
   <a href="mailto:hayon2c@gmail.com">
     <img
       src="https://img.shields.io/badge/hayon2c@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
@@ -74,7 +104,7 @@
 
 <br>
 
-<div align="center">
+<div>
   
   ![이하연's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggody2&show_icons=true&theme=radical)
 </div>
