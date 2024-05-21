@@ -96,9 +96,9 @@
 
 <h2>📫 Contact 📫</h2>
 <div>
-  <a href="mailto:hayon2c@gmail.com">
+  <a href="mailto:hayonDev@gmail.com">
     <img
-      src="https://img.shields.io/badge/hayon2c@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/hayonDev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
