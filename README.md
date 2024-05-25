@@ -32,8 +32,12 @@
 <br/>
 
 <h2>
-📌project📌 : https://github.com/ggody2/profiles.git
+📌project📌 
 </h2>
+
+- [전체](https://github.com/ggody2/profiles.git) <br/>
+- [자세히](https://www.notion.so/Picstory-Project-1305d1fd5ff5479395bbf9da80fc8c44?pvs=4) 
+
 <br/>
 <br/>
 
